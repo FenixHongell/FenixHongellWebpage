@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+    font-family: Poppins, sans-serif;
+}
+
+.HeaderContainer {
+    width: 50%;
+    height: 100%;
+}
+
+.HeaderSideContainer {
+    width: 50%;
+    height: 100%;
+}
+
+.Container {
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.Highlight {
+    background: -webkit-linear-gradient(#0036ff, #00d9ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
